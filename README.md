@@ -12,4 +12,4 @@ Batch script for Windows 10/11 to remove Microsoft Edge, clean leftovers, apply 
 1. Run `EdgeRemover.bat` as Administrator.
 2. Choose option `1` for full cleanup and protection.
 3. Reboot.
-4. Run quick verify from menu (or `Verify.bat`).
+4. Run quick verify from menu (or `BetterVerify.bat`).
